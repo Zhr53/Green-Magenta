@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Tips For Grand City theft Auto",
+      "image": "https://play-lh.googleusercontent.com/-blXheYzOYu8H3cI-0CiF2Drj3mlAQHmOl0D5mk3ui-Ei930f5daQUqTIaNEK_dmeJU=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.guide.grand.city.auto.tips&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 1",
+      "image": "ahttps://www.ayovaksindinkeskdi.id/wp-content/uploads/2023/03/tipex-trondol-modif-mod-apk.jpg",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html1.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 1",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2023/03/tipex-trondol-modif-mod-apk.jpg",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html1.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 2",
+      "image": "https://play-lh.googleusercontent.com/hV7b1L59gcbehVFSOUZjGmMjUbCyWd8YuGcoUQC_F_EXWz1-BrLyYiM3AZ5cdD-3DA=w2560-h1440-rw",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html2.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 3",
+      "image": "https://play-lh.googleusercontent.com/Xyfq63J9BhJ_XVQVTgHGVnJnU7-mX_JhlHS723tlF_LrsNc-s00Pz-EiUpCXaeoDgjw=w2560-h1440-rw",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html3.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 4",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2023/03/tipex-trondol-modif-mod-apk1-600x251.jpg",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html4.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 5",
+      "image": "https://play-lh.googleusercontent.com/rRF1ScHF9nZvL05RZLD2coLsq6bFn9DGHEF8B9PWCFdJlAFuylmiKWKRX9VJ087saKPe=w750-h750",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html5.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Trondol T",
+      "title": "Race Trondol TipEX Guide 6",
+      "image": "https://play-lh.googleusercontent.com/zn-0ItDNhDBZjgbsG8pGMcGtfOBOUwwBRAQyedGYyqws8Ln4CldUCXzaB2zwtDCfNfA=w750-h750",
+      "description": "Description Trondol TipEX",
+      "link": "https://ia601601.us.archive.org/7/items/html3_202303/konten%20Race%20Trondol%20TipEX%20Guide/html6.html"
     
     }
   ]
