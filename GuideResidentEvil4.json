@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -28,15 +28,15 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "Tips Resident Evil 4 Game,
+      "image": "https://play-lh.googleusercontent.com/N-SgpeM67u_ABluHVxUabvRlScWXFmnLhUbq7G-VOxuqD6wbGa6345k6jiD-7BVmKyE=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.ResidentEvil4.vdesurvivalgame&hl=id"
     }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Tutorial",
+      "name_category": "Guide Resident Evil 4",
       "image": "file:///android_asset/image/gambar1.jpg"
     } 
   ],
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 1 Ring the Church Bell",
+      "image": "https://www.portalgaming.id/wp-content/uploads/2022/04/LEON.jpg",
+      "description": "Description Ring the Church Bell ",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%201%20Ring%20the%20Church%20Bell.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 1 Ring the Church Bell",
+      "image": "https://www.portalgaming.id/wp-content/uploads/2022/04/LEON.jpg",
+      "description": "Description Ring the Church Bell",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%201%20Ring%20the%20Church%20Bell.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 2 Rescue Luis Sera",
+      "image": "https://www.gamebyte.com/wp-content/uploads/2022/05/4da9770d-resident-evil-4.jpg",
+      "description": "Description Rescue Luis Sera",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%202%20Rescue%20Luis%20Sera.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 3 Retrieve The Sample",
+      "image": "https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2023/03/RE4-Interview.jpg",
+      "description": "Description Retrieve The Sample",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%203%20Retrieve%20The%20Sample.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 4 Stop Leon's Assassination",
+      "image": "https://insider-gaming.com/wp-content/uploads/2023/03/resident-evil-4-remake.jpg",
+      "description": "Description Stop Leon's Assassination",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%204%20Stop%20Leon%27s%20Assassination.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Chapter 5 Obtain The Sample",
+      "image": "https://cdn.vox-cdn.com/thumbor/LZSQ3c5kQRkpnz6Ri25HwCTEIvA=/0x0:3240x2160/1400x1400/filters:focal(1620x1080:1621x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/22363349/re4hdprojectlede.jpg",
+      "description": "Description Obtain The Sample",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Chapter%205%20Obtain%20The%20Sample.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Guide Resident Evil 4",
+      "title": "Final Chapter",
+      "image": "https://s.yimg.com/ny/api/res/1.2/g3fiAPz.bipoanRqribcUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MQ--/https://media.zenfs.com/en/nerdist_761/2e812c1462510ff931da4df3642dd81e",
+      "description": "Description Final Chapter",
+      "link": "https://ia902607.us.archive.org/28/items/final-chapter/Content%20Guide%20Resident%20Evil%204/Final%20Chapter.html"
     
     }
   ]
