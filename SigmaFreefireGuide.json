@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "GTA Craft Theft Mod for MCPE",
+      "image": "https://play-lh.googleusercontent.com/bPO2eyE1AFK17GFO7Xl55akAj-oUnBQ-8G_ZicjiEfpUfMskjLJ8bRWyUcdUTwYt7w=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.theft_wars_dude_auto.gangster_crime_theft_gta.ojalagames&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Classic Mode",
+      "image": "https://jambiekspres.disway.id/upload/28e5e27bbbafa7a9dc8cb36ed96edd00.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/1.%20Classic%20Mode.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Classic Mode",
+      "image": "https://jambiekspres.disway.id/upload/28e5e27bbbafa7a9dc8cb36ed96edd00.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/1.%20Classic%20Mode.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Ranked Mode",
+      "image": "https://fin.co.id/upload/f6f8e4f3eb215b9294a8aa5528c952ce.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/2.%20Ranked%20Mode.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Clash Squad",
+      "image": "https://media.hitekno.com/thumbs/2022/11/29/84623-sigma-battle-royale/730x480-img-84623-sigma-battle-royale.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/3.%20Clash%20Squad.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Bomb Squad",
+      "image": "https://fin.co.id/upload/3549cd0780a0ca5dc39aed3a12919140.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/4.%20Bomb%20Squad.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Solo Mode",
+      "image": "https://onlinemetro.id/wp-content/uploads/2023/03/Tema-Klasik-Game-Sigma.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/5.%20Solo%20Mode.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "Sigma Freefire Guide",
+      "title": "Duo Mode",
+      "image": "https://fin.co.id/upload/a279ca1cd60fd7b7418acafbeef0ec41.jpg",
+      "description": "Description",
+      "link": "https://ia902606.us.archive.org/14/items/2.-ranked-mode/Konten%20Sigma%20Battle%20Royale/6.%20Duo%20Mode.html"
     
     }
   ]
