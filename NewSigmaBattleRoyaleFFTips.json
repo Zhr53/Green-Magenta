@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -28,9 +28,9 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "GTA Craft Theft Mod for MCPE",
+      "image": "https://play-lh.googleusercontent.com/bPO2eyE1AFK17GFO7Xl55akAj-oUnBQ-8G_ZicjiEfpUfMskjLJ8bRWyUcdUTwYt7w=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.theft_wars_dude_auto.gangster_crime_theft_gta.ojalagames&hl=id"
     }
   ],
   "Categories": [
@@ -44,58 +44,58 @@
     
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Elite Pass Skins",
+      "image": "https://www.suaramuda.co.id/wp-content/uploads/2023/03/Link-Download-Sigma-Battle-Royale-Apk-Mod-Data-OBB-Terbaru-2023.png",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/1.%20Elite%20Pass%20Skins.html"
    },
 {
       "id": 1,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Elite Pass Skins",
+      "image": "https://www.suaramuda.co.id/wp-content/uploads/2023/03/Link-Download-Sigma-Battle-Royale-Apk-Mod-Data-OBB-Terbaru-2023.png",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/1.%20Elite%20Pass%20Skins.html"
     },{
    
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Diamond Royale Skins",
+      "image": "https://imag.malavida.com/mvimgbig/download-fs/sigma-battle-royale-36265-2.jpg",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/2.%20Diamond%20Royale%20Skins.html"
     },
 {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Weapon Skins",
+      "image": "https://esportsgen.com/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-7.53.17-PM.jpeg",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/3.%20Weapon%20Skins.html"
     },{
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Character SKins",
+      "image": "https://fin.co.id/upload/large/923d8b5c2c5f1eff957f5e9f4ee21c0c.jpg",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten New Sigma Battle Royale FF Tips/4. Character Skins.html"
       },
 {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Incubator Skins",
+      "image": "https://media.suara.com/pictures/653x366/2022/12/05/23437-sigma-battle-royale.jpg",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/5.%20Incubator%20Skins.html"
     },{
    
       "id": 6,
-      "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
-      "description": "deskripsi",
-      "link": "ambil di archive org"
+      "name_category": "New Sigma Battle Royale FF Tips",
+      "title": "Special Skins",
+      "image": "https://media.suara.com/suara-partners/sumedang/thumbs/480x270/2022/12/22/1-screenshot-20221222-101322.png",
+      "description": "Description",
+      "link": "https://ia902601.us.archive.org/27/items/5.-incubator-skins/Konten%20New%20Sigma%20Battle%20Royale%20FF%20Tips/6.%20Special%20Skins.html"
     
     }
   ]
