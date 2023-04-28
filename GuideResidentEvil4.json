@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "9c602c66c1b9cdbd",
-      "main_ads_intertitial":"97a9289179dea84f",
-      "main_ads_natives":"ed472e7855aeeefd",
+      "main_ads_banner": "573937644870389_574003741530446",
+      "main_ads_intertitial":"573937644870389_574003824863771",
+      "main_ads_natives":"573937644870389_574003974863756",
       "backup_ads_natives":"11d54c4bd7782aa7",
       "backup_ads_banner":"71bbf6b5c9949f26",
       "backup_ads_intertitial":"08c040f760ea73e0",
@@ -16,11 +16,11 @@
       "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "resident evil 4 leon",
-      "high_paying_keyword_2": "resident evil 4 merchant",
-      "high_paying_keyword_3": "resident evil 4 ps4",
-      "high_paying_keyword_4": "resident evil 4 gamecube",
-      "high_paying_keyword_5": "resident evil 4 remake",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
